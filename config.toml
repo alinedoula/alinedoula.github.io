@@ -11,3 +11,7 @@ theme = "hallo"
         icon = "instagram"
         title = "Instagram"
         url = "https://www.instagram.com/asantoliveira/"
+    [[params.links]]
+        icon = "facebook"
+        title = "Facebook"
+        url = "https://www.facebook.com/aline.amamenta"
