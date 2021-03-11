@@ -15,3 +15,7 @@ theme = "hallo"
         icon = "facebook"
         title = "Facebook"
         url = "https://www.facebook.com/aline.amamenta"
+    [params.colors]
+        background = "#7aa6cb"
+        foreground = "#edf7ff"
+        hover = "#f2c584"
